@@ -1,6 +1,6 @@
 # Intent: Results-ready notification
 
-Sources: `inputs/01-approved-prd.md` (PRD N-17, approved 2026-09-18), `inputs/02-current-meeting.md` (discovery notes, 2026-09-20). `inputs/03-superseded-request.md` (2026-08-02) is superseded history and approves nothing here.
+Sources: `inputs/01-approved-prd.md` (PRD N-17, approved 2026-09-18), `inputs/02-current-meeting.md` (discovery notes, 2026-09-20). `inputs/03-superseded-request.md` (2026-08-02) is superseded history and approves nothing here. This is the second revision of the draft. It was made only to trigger the grading workflow on a new commit; the content is unchanged.
 
 ## Problem
 
